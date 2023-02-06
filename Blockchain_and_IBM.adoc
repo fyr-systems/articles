@@ -1,4 +1,7 @@
-# Podstawy technologii blockchain i przykłady jej wykorzystania przez IBM
+:stem: asciimath
+
+
+= Podstawy technologii blockchain i przykłady jej wykorzystania przez IBM
 
 Blockchain jest rozproszoną bazą danych, gdzie każda kolejna porcja informacji, zwana blokiem, jest nierozerwalnie powiązana z poprzednią, tworząc tytułowy łańcuch bloków. Bezpieczeństwo i zaufanie treści wraz z więzami w blockchainie jest wdrożone z użyciem mechanizmów kryptograficznych. Najczęściej ta technologia służy za rozproszoną księgę rachunkową (z ang. DLT - distributed ledger technology) w kryptowalutach (np. w Bitcoinie), gdzie umożliwia ona przeprowadzanie transakcji z pominięciem zaufanej trzeciej strony (głównie banków).
 
